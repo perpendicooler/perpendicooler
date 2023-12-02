@@ -25,4 +25,11 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=perpendicooler&show_icons=true&locale=en&layout=compact" alt="perpendicooler" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=perpendicooler&show_icons=true&locale=en" alt="perpendicooler" /></p>
-![]https://komarev.com/ghpvc/?username=perpendicooler&color=green
+
+![secret-profile-repository](https://user-images.githubusercontent.com/1849174/87852702-f24acb80-c90c-11ea-8247-90ae7de0954d.png)
+
+
+
+![](https://komarev.com/ghpvc/?username=perpendicooler)
+
+
