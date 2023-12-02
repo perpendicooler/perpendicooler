@@ -26,7 +26,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=perpendicooler&show_icons=true&locale=en" alt="perpendicooler" /></p>
 
-![secret-profile-repository](https://user-images.githubusercontent.com/1849174/87852702-f24acb80-c90c-11ea-8247-90ae7de0954d.png)
 
 
 
