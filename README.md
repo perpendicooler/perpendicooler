@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm MD ARIF HOSSAIN</h1>
 <h3 align="center">Perpendicooler</h3>
 
-- 🔭 I’m currently working on **Infinite Matrices and Its Applicatin**
-
+- 🔭 I’m currently working on **Determinant of infinite Matrices and Its Applicatin**
+- 
 - 🌱 I’m currently learning **Nothing**
 
 - 👯 I’m looking to collaborate on **Non-linear Dynamical System, Mathematical Modeling, Computational Biology**
