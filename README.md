@@ -2,7 +2,7 @@
 <h3 align="center">Perpendicooler</h3>
 
 - 🔭 I’m currently working on **Determinant of infinite Matrices and Its Applicatin**
-- 
+  
 - 🌱 I’m currently learning **Nothing**
 
 - 👯 I’m looking to collaborate on **Non-linear Dynamical System, Mathematical Modeling, Computational Biology**
