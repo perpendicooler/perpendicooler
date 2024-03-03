@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm MD ARIF HOSSAIN</h1>
+<h1 align="center">Hi 👋, I'm Md Arif Hossain</h1>
 <h3 align="center">Perpendicooler</h3>
 
 - 🔭 I’m currently working on **Determinant of infinite Matrices and Its Applicatin**
