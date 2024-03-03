@@ -3,13 +3,13 @@
 
 - 🔭 I’m currently working on **Determinant of infinite Matrices and Its Applicatin**
   
-- 🌱 I’m currently learning **Nothing**
+- 🌱 I’m currently learning **Applied Numerical Linear Algebra, Machine Learning in Finance**
 
 - 👯 I’m looking to collaborate on **Non-linear Dynamical System, Mathematical Modeling, Computational Biology**
 
 - 🤝 I’m looking for help with **Riemann Hypothesis (that Analytic Continuation) using Manim**
 
-- 💬 Ask me about **FORTRAN, MATLAB, Numerical Analysis**
+- 💬 Ask me about **FORTRAN, MATLAB, Numerical Analysis, Applied Numerical Linear Algebra**
 
 - 📫 How to reach me **arif.hossain.shakib@gmail.com**
 
