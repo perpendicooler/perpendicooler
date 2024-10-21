@@ -29,7 +29,9 @@
 ![perpendicooler's Stats](https://github-readme-stats.vercel.app/api?username=perpendicooler&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 
+![perpendicooler's Streak](https://github-readme-streak-stats.herokuapp.com/?user=perpendicooler&theme=vue-dark&hide_border=true)
 
+![perpendicooler's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=perpendicooler&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
 
 ![](https://komarev.com/ghpvc/?username=perpendicooler)
