@@ -2,7 +2,7 @@
 <h3 align="center">Perpendicooler</h3>
 
 # 💫 About Me:
-- 🔭 I’m currently working on **Prediction of SMV**
+- 🔭 I’m currently working on **INDESORE**
   
 - 🌱 I’m currently learning **Machine Learning in Finance, LLM, MLOps**
 
