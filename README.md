@@ -29,5 +29,5 @@
 
 <p align ="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=perpendicooler&" alt="perpendicooler" /></p>
 ![](https://komarev.com/ghpvc/?username=perpendicooler)
-![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=perpendicooler)
+
 
