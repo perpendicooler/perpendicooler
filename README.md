@@ -4,7 +4,7 @@
 # 💫 About Me:
 - 🔭 I’m currently working on **Prediction of SMV**
   
-- 🌱 I’m currently learning **Machine Learning in Finance**
+- 🌱 I’m currently learning **Machine Learning in Finance, LLM, MLOps**
 
 - 👯 I’m looking to collaborate on **Non-linear Dynamical System, Mathematical Modeling, Computational Biology**
 
