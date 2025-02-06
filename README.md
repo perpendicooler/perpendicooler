@@ -2,8 +2,7 @@
 <h3 align="center">Perpendicooler</h3>
 
 # 💫 About Me:
-- 🔭 I’m currently working on **Financial Dashbaord
--  and predictive analysis for FOB at INDESORE Group**
+- 🔭 I’m currently working on **Financial Dashbaord and predictive analysis for FOB at INDESORE Group**
   
 - 🌱 I’m currently learning **Machine Learning in Finance, LLM, MLOps**
 
