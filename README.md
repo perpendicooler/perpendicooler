@@ -3,14 +3,6 @@
 
 # 💫 About Me:
 - 🔭 I’m currently working on **Financial Dashbaord and predictive analysis for FOB at INDESORE Group**
-  
-- 🌱 I’m currently learning **Machine Learning in Finance, LLM, MLOps**
-
-- 👯 I’m looking to collaborate on **Non-linear Dynamical System, Mathematical Modeling, Computational Biology**
-
-- 🤝 I’m looking for help with **Riemann Hypothesis (that Analytic Continuation) using Manim**
-
-- 💬 Ask me about **FORTRAN, MATLAB, Numerical Analysis, Applied Numerical Linear Algebra**
 
 - 📫 How to reach me **arif.hossain.shakib@gmail.com**
 
