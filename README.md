@@ -1,43 +1,126 @@
-<h1 align="center">Hi 👋, I'm Md Arif Hossain</h1>
-<h3 align="center">Perpendicooler</h3>
+<h1 align="center">Md Arif Hossain</h1>
 
-# 💫 About Me:
-- 🔭 I’m currently working on **Financial Dashbaord and predictive analysis for FOB at INDESORE Group**
-
-- 📫 How to reach me **arif.hossain.shakib@gmail.com**
-
-## 🌐 Socials:
-<p align="left">
-<a href="https://linkedin.com/in/md-arif-hossain-7067481a5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md-arif-hossain-7067481a5" height="30" width="40" /></a>
-<a href="https://fb.com/metacennftric.shakib" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="metacennftric.shakib" height="30" width="40" /></a>
+<p align="center">
+Mathematics | Operations Research | Optimization | Data-Driven Decision Analytics
 </p>
 
+---
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Fortran](https://img.shields.io/badge/Fortran-%23734F96.svg?style=for-the-badge&logo=fortran&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Julia](https://img.shields.io/badge/-Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Octave](https://img.shields.io/badge/OCTAVE-darkblue?style=for-the-badge&logo=octave&logoColor=fcd683) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Scala](https://img.shields.io/badge/scala-%23DC322F.svg?style=for-the-badge&logo=scala&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue)
+## About Me
 
+I am a Mathematics graduate from Shahjalal University of Science and Technology (SUST) and currently work as a Business Intelligence Analyst in the manufacturing industry.
 
+My research interests lie in:
 
+- Operations Research
+- Mathematical and Combinatorial Optimization
+- Mixed-Integer Programming
+- Facility Location and Routing
+- Transportation and Logistics Optimization
+- Network Optimization
+- Data-Driven Optimization
+- Machine Learning for Decision-Making
 
+My background combines mathematical research, computational modelling, optimization, and industrial decision analytics. I am particularly interested in developing rigorous optimization methods for complex operational systems and exploring how machine learning can complement mathematical optimization.
 
+---
 
+## Featured Research Project
 
+### Geographic Facility Location and Metric Routing Optimization in Poland
 
+This project studies facility-location and routing decisions using mathematical optimization and approximation algorithms.
 
+Key components include:
 
+- Minimum set-covering formulation for geographic facility placement
+- Exact metric Traveling Salesman Problem formulations
+- Degree and subtour-elimination constraints
+- Iterative constraint-generation approaches
+- Christofides' approximation algorithm
+- Minimum spanning trees and minimum-weight perfect matching
+- Comparison of approximation and exact optimization solutions
 
+**Tools:** Python, Gurobi, PuLP, SciPy/HiGHS, NetworkX
 
+[View Project Repository](https://github.com/perpendicooler/Elementary-Research-for-Steamboat-Willie-s-Store-in-Poland)
 
+---
 
+## Research Background
 
+### Matrix Methods for Posets and Lattices
 
+Research conducted through the SUST Research Center on matrix-based approaches to combinatorial structures involving partially ordered sets and lattices.
 
+**Tools:** MATLAB, Mathematical Modelling, Combinatorial Mathematics
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=perpendicooler&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=perpendicooler&theme=nightowl&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=perpendicooler&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+### Undergraduate Thesis
 
+**On the Determinant, Inverse, and Eigenvalues of Infinite Matrices**
 
-![](https://komarev.com/ghpvc/?username=perpendicooler)
+Worked on numerical and computational aspects of infinite matrices, including convergence, matrix functions, series expansions, eigenvalues, and numerical approximation.
 
+---
+
+## Applied Decision Analytics
+
+As a Business Intelligence Analyst, I work on quantitative decision-support problems involving:
+
+- Production capacity and resource allocation
+- Machine utilization and downtime
+- Manufacturing efficiency
+- Scenario and what-if analysis
+- Production planning
+- Predictive modelling
+- Operational performance analysis
+
+These experiences have strengthened my interest in applying Operations Research to real-world decision systems.
+
+---
+
+## Technical Skills
+
+**Optimization & Mathematical Modelling**  
+Gurobi • PuLP • SciPy/HiGHS • NetworkX • Mixed-Integer Programming • Combinatorial Optimization • Facility Location • Routing
+
+**Scientific Computing & Programming**  
+Python • MATLAB • R • C++ • Fortran • SQL • NumPy • SciPy • pandas
+
+**Machine Learning**  
+scikit-learn • PyTorch • TensorFlow/Keras • Predictive Modelling • Classification • Model Evaluation
+
+**Analytics & Visualization**  
+Tableau • Power BI • Excel
+
+**Research & Development Tools**  
+Git • GitHub • Jupyter • Google Colab • LaTeX • Streamlit
+
+---
+
+## Selected Research & Presentations
+
+- **Rubik's Cube – An Application of Group Theory**  
+  International Conference on Science, Technology, Engineering, Mathematics, and Education, 2023
+
+- **The Alternative Form of the Order of an Element in a Group Under Addition Modulo**  
+  International Conference on Science, Technology, Engineering, Mathematics, and Education, 2023
+
+- **Fine-Grained Classification of Depression, Loneliness, and Fear in Bangla Social Media Text**  
+  ICCIT 2026 — Submitted
+
+---
+
+## Current Research Direction
+
+I am currently preparing for doctoral study in Operations Research and related quantitative fields.
+
+My primary interest is in combinatorial and data-driven optimization for transportation, logistics, network, and resource-allocation problems, particularly research exploring how machine learning can complement mathematical optimization.
+
+---
+
+## Connect With Me
+
+- [LinkedIn](https://linkedin.com/in/md-arif-hossain-7067481a5)
+- Email: arif.hossain.shakib@gmail.com
+- GitHub: [@perpendicooler](https://github.com/perpendicooler)
