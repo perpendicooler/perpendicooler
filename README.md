@@ -110,13 +110,6 @@ Git • GitHub • Jupyter • Google Colab • LaTeX • Streamlit
   ICCIT 2026 — Submitted
 
 ---
-
-## Current Research Direction
-
-I am currently preparing for doctoral study in Operations Research and related quantitative fields.
-
-My primary interest is in combinatorial and data-driven optimization for transportation, logistics, network, and resource-allocation problems, particularly research exploring how machine learning can complement mathematical optimization.
-
 ---
 
 ## Connect With Me
